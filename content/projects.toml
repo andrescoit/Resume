@@ -1,0 +1,5 @@
+[[items]]
+url="https://www.github.com/andrescoit/today.sh"
+title="today.sh"
+description="A minimal note-taking script with relative paths and regex search"
+tags=["Bash", "Linux"]
